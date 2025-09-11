@@ -1,0 +1,4 @@
+title: Senior Engineering Capstone Project
+
+## Introduction
+Hi, my name is collin kanofsky and I am a senior at Charlotte Latin School looking ot major in mechatronics. Throughout my childhood, I have built numberous robots and machines through my super fun robotics teams and the intense but greatly benificial Fab Academy program. However, as I approached my senior year capstone project, I decided that I wanted to take my knowledge from robotics, and apply it with the skills from Fab Academy to make a modular Chassis that can host many projects to come. However, before I get ahead of myself, I am starting off with the goal of a backpack carrying robot I have named the "Robopack". This robot will carry around your backpack for you and will give me a starting point for future more intricate and advanced projects.
