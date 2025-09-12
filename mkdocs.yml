@@ -1,8 +1,12 @@
 site_name: Senior Engineering - Kanofsky
+site_url: https://ckanofskyschool.github.io/Kanofsky-Collin-Portfolio/
+site_description: Senior Engineering at Charlotte Latin School
+site_author: Collin Kanofsky
+
+theme:
+  name: shadcn
 
 nav:
   - Home: index.md
   - Project Overview: ProjectOverview.md
-
-theme:
-  name: shadcn
+  - Robot Planning: RobotPlanning.md
