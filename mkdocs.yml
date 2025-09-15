@@ -10,3 +10,8 @@ nav:
   - Home: index.md
   - Project Overview: ProjectOverview.md
   - Robot Planning: RobotPlanning.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
