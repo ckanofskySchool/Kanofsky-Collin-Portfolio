@@ -23,3 +23,7 @@ Outside of class today, I used the AI Claude with the Opus4.1 model to generate 
 ### Prompt for Raspberry Pi Code
 
 ```can you now right me a raspberry pi program in pythong prob. that will provide these inputs needed based off a raspberry pi 5 and a raspberry pi AI camera attachment. Also have the raspberry pi host a webserver that allows the user to see the motor power assignements and camera feed. there should be a simple but neat UI for that web page pls.```
+
+## 10/6/2025
+
+I have done some thinking and realized that I was going too big on the first code attempt, so I backtracked a bit back to the Raspberry Pi AI Camera Documentation, and completed the instructions as well as ran the example 
