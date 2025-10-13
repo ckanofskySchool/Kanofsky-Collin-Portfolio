@@ -47,7 +47,7 @@ I haven't built this part yet because I chose to focus on the main power layout.
 
 The main focus I had when setting up the hardware was modularity. I want to be able to replace components if I need to, or swap them out wihtout having to unsolder or cut wires, so I decided to use Wago connectors which take to unsoldered raw wire ends, and clamp down a metal plate on the wires forming a connection between the wires on both sides. These connectors worked great, but I sadly only snagged 2 from my robotics team, and I inevitablly ended up needing 4, so I put the final wiring on hold until I could get some more Wago connectors.
 
-I also had to do some soldering to 
+I also had to do some soldering to connect the battery to the whole system. I bought some EC5 Connectors off of amazon and soldered them on to 12Ga wire which allowed me to connect the battery to the breaker and the whole system.
 
 ## 10/8/2025
 
@@ -67,7 +67,9 @@ This code worked amazing and had very simular functions to the example, but a fe
 
 ### Video of the Code Functioning
 
-
+<video width="320" height="240" controls>
+  <source src="/docs/Images/DailyJournal/ObjectDetectVideo.mp4" type="video/mp4">
+</video>
 
 ## 10/9/2025
 
@@ -75,9 +77,10 @@ Today, I continued working on the electrical testing setup I started on 10/7/202
 
 ### Video of motor moving
 
+<video width="320" height="240" controls>
+  <source src="/docs/Images/DailyJournal/Motor moving.mp4" type="video/mp4">
+</video>
 
+## 10/10/2025
 
-
-
-
-
+Today, I made some orders to make sure my final product would be safer. This order mainly included anderson connectors for modular connections, 12Ga Wire spool, Power Distribution bus that will protect the 12v battery power from contacting anything, but also distribute it to 5 other places.
